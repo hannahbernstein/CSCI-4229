@@ -1,6 +1,6 @@
 //Hannah Bernstein
 
-
+#include "hw2_2.h"
 #pragma clang diagnostic ignored "-Wdeprecated-declarations" // Silence deprecation warnings
 #include <stdio.h>
 #include <stdlib.h>
